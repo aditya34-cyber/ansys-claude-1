@@ -1,0 +1,38 @@
+Auto-Transcript Start Time:  14:43:21, 23 Sep 2026 India Standard Time 
+Current Directory: "C:\Users\PC\OneDrive\Desktop\fluent-ai-agent\ansys-claude-1-master"
+
+              Welcome to ANSYS Fluent 2026 R1.03
+
+              Copyright 2026 Synopsys, Inc. and ANSYS, Inc. All rights reserved.
+              Unauthorized use, distribution or duplication is prohibited.
+              This product is subject to U.S. laws governing export and re-export.
+              For full Legal Notice, see documentation.
+
+Build Time: May  8 2026 10:53:35 EST  Build Id: 10263  
+ 
+Connected License Server List:	1055@localhost
+
+*********************************************
+Info: Your license enables 4-way parallel execution.
+For faster simulations, please start the application with the appropriate parallel options.
+*********************************************
+
+Host spawning Node 0 on machine "ADRITI" (win64).
+Host waiting for connection from Node 0 at 169.254.67.180:63830 
+
+Aborting: Failed to construct hwtree for collect command. 0x8000ffff
+
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+   Timed out in Fluent startup [600 seconds], aborting ... 
+
+   Check networks and computers to make sure they are available and healthy! 
+   If you believe the systems are good, you can wait longer by setting 
+     the environment variable in seconds as needed: 
+
+       FLUENT_START_COMPUTE_NODE_TIME_OUT 
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+
+
+Application is timed out, aborting ...
+
